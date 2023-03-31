@@ -82,7 +82,7 @@ The 8, 16, 32 etc behind those letters are to indicate the limit of the number t
 
     No float type of 16 bits.
 
-On a closing note, fill in the appropriate number type in this code below
+On a closing note, fill in the appropriate number type in this code below. Check out [the correct answer](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=1f09d46ad675413cb4f18ed33e9b68ab) after you attempt it.
 
 ```rust
 fn main (){
